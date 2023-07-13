@@ -12,6 +12,7 @@ import java.util.Objects;
  * );
  *
  */
+
 public class Character {
     private Integer id;
     private String firstName;
